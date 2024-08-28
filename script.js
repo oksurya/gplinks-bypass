@@ -4,6 +4,7 @@
 // @version      0.2
 // @description  Bypassing gplinks.co
 // @match        *://*/*
+// @author     Jayasurya Mailsamy
 // @grant        none
 // ==/UserScript==
 
