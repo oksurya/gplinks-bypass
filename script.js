@@ -2,7 +2,7 @@
 // @name         Gplinks Bypass
 // @namespace    http://tampermonkey.net/
 // @version      0.2
-// @description  Alert if a specific script tag is detected, show specific cookies, make POST requests, and redirect
+// @description  Bypassing gplinks.co
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
